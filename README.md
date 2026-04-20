@@ -1,1 +1,9 @@
-# Math-analysis-labs-lab1-RyabkovaAnastasia
+# lab1-RyabkovaAnastasia
+
+Фамилия Имя: Рябкова Анастасия
+
+Группа: М3232
+
+Вариант: 17
+
+Язык программирования, версия, компилятор: Python, 3.13
